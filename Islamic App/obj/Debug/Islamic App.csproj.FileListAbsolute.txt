@@ -1,0 +1,22 @@
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\Islamic App.exe.config
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\Islamic App.exe
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\Islamic App.pdb
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic App.csproj.AssemblyReference.cache
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmMainMenue.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.Properties.Resources.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic App.csproj.GenerateResource.cache
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic App.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic App.exe
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic App.pdb
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic .73778C4D.Up2Date
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\Newtonsoft.Json.dll
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\Newtonsoft.Json.xml
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmNightAdkars.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmMorningAdkars.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmAfternoonAdkars.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmPrayserAfterAdkars.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmPrayerAdkar.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\obj\Debug\Islamic_App.fmEnd.resources
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\MP3Sharp.dll
+D:\vscode\Purple\Islamic App Project\Islamic App\bin\Debug\MP3Sharp.pdb
