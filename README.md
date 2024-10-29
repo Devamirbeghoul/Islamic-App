@@ -14,7 +14,7 @@ IslamicApp is a Windows desktop application, developed with WinForms, designed t
    A digital Tasbih feature that allows users to count their dhikr with ease. Users can reset, save, and track their counts for different adhkar sessions.
 
 4. **Qur'an**  
-   Access the entire Quran, with options for reading in Arabic, translation into multiple languages, and even transliteration. The Quran feature includes a bookmarking function, allowing users to save where they left off.
+   Access the entire Quran, with option for reading in Arabic.
 
 
 ### System Requirements
